@@ -1,0 +1,44 @@
+HYBRIDHOMESTEAD.LIFE APP DATA PROMPT
+User location: USDA Zone 8a (Chattanooga, TN).
+
+Data needed for all herbs, vegetables, and trees listed below:
+• Season
+• Planting Month(s)
+• Spacing
+• Plant Companions
+• Pollination (if applicable)
+• Type (herb, vegetable, fruit, nut, vine, perennial, annual)
+• Seed/Planting Depth
+• Sun Requirements
+• Soil Mixture
+• Planting Instructions
+• Maintenance Requirements
+• Health Benefits
+
+VEGETABLE & GARDEN PROMPT
+I live in USDA Zone 8a (Chattanooga, TN).
+Vegetables to include: asparagus, beans, beets, bell peppers, bok choy, butternut squash, cabbage, carrots, celery, cucumber, garlic, green beans, greens, leeks, lettuce, onion, spinach, scallions, shallots, sweet potatoes, tomatoes, turnip, white potatoes, yams, zucchini.
+Create a table with the following columns:
+Vegetable | Season | Spacing | Grow Zone | Plant Companions | Seed Depth | Sun Requirements | Soil Mixture | Planting Instructions | Maintenance | Health Benefits
+Populate one full row per vegetable.
+
+TREE & PERENNIAL FRUIT PROMPT
+I live in USDA Zone 8a (Chattanooga, TN).
+Trees/fruiting plants to include: apple, avocado, blackberry, blueberry, cherry, cranberry, elderberry, fig, goji, grape, hazelnut, honeyberry, kiwi, lemon, lime, lingonberry, nectarine, olive, orange, pawpaw, peach, pear, pecan, persimmon, pineberry, pistachio, plum, pomegranate, raspberry, strawberry, vanilla bean.
+Create a table with the following columns:
+Tree/Plant | Companion Plants | Spacing | Planting Depth | Recommended Zones | Type (Fruit, Nut, Vine, etc.) | Pollination Requirement | Sun Requirements | Soil Mixture | Planting Instructions | Organic Maintenance | Health Benefits
+Populate one full row per plant.
+
+HERBS PROMPT
+basil, chamomile, chives, cilantro, curry, echinacea, lavender, lemon balm, marjoram, mint, oregano, parsley, rosemary, sage, sunflower, tarragon, thyme.
+Vegetables & Fruit:
+asparagus, beans, beets, bell peppers, bok choy, butternut squash, cabbage, carrots, celery, cucumber, garlic, green beans, greens, leeks, lettuce, onion, spinach, scallions, shallots, sweet potatoes, tomatoes, turnip, white potatoes, yams, zucchini.
+Trees/Perennials:
+apple, avocado, blackberry, blueberry, cherry, cranberry, elderberry, fig, goji, grape, hazelnut, honeyberry, kiwi, lemon, lime, lingonberry, nectarine, olive, orange, pawpaw, peach, pear, pecan, persimmon, pineberry, pistachio, plum, pomegranate, raspberry, strawberry, vanilla bean.
+Sort features required for the app:
+• Month to plant
+• Companion compatibility
+• Type (herb/veg/tree)
+• Pollination
+• Sun requirements
+• Health benefits
